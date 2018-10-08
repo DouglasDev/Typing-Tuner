@@ -1,0 +1,28 @@
+body {
+    text-align:center;
+}
+#keyboard {
+    width:40%;
+    height: auto;
+}
+#text{
+
+  word-wrap: break-word;
+  font-size: 120%;
+	margin: 0px 100px ;
+	padding: 8px;
+	background: Gainsboro;}
+
+.current{
+  font-weight: bold;
+  font-size: x-large;
+  text-decoration: underline overline;  
+}
+
+.wrong{
+  color: red;
+}
+
+.right{
+  color: green;
+}
